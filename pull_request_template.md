@@ -1,7 +1,4 @@
-
-*_Issue_: [#XX](url)*
-[ ]Closes 
-[ ] Fixes
+Closes: [#XX](url)
 
 *_RFC_: *
 
@@ -16,9 +13,9 @@ Entre más complejo más vale la pena abrirlo temprano (facilita la revisión)
 **¿Cómo ha sido _testeado_?**
 
 **Checklist:**
-[ ] El código sigue la guía de estilo del proyecto
-[ ] Mis cambios requeiren cambios en la documentación
-[ ] He actualizado la documentación 
-[ ] Se han añadido tests que cubren los cambios
+- [ ] El código sigue la guía de estilo del proyecto
+- [ ] Mis cambios requeiren cambios en la documentación
+- [ ] He actualizado la documentación 
+- [ ] Se han añadido tests que cubren los cambios
 
 **Contexto adicional**
