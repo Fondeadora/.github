@@ -17,8 +17,8 @@ Entre más complejo más vale la pena abrirlo temprano (facilita la revisión)
 
 **Checklist:**
 [ ] El código sigue la guía de estilo del proyecto
-[ ] Mis cambios requirentes cambios en la documentación
+[ ] Mis cambios requeiren cambios en la documentación
 [ ] He actualizado la documentación 
-[ ] Se han añadido tests que cubren los cambios (para bug fixes / features)
+[ ] Se han añadido tests que cubren los cambios
 
 **Contexto adicional**
