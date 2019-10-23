@@ -1,21 +1,32 @@
-Closes: [#XX](url)
+# Pull Request Name: [#197](https://github.com/Fondeadora/fondeadora/issues/197)
 
-*_RFC_: *
+**Note**: Use your preferred `keyword`, but jus one (Don't forget to delete the `<br/>` and the rest of options).
 
-**Descripción**
-Un buen lugar para discutir implementación, diseño, etc. 
-Entre más complejo más vale la pena abrirlo temprano (facilita la revisión)
+Close Fondeadora/fondeadora#197 <br/>
+Closes Fondeadora/fondeadora#197 <br/>
+Closed Fondeadora/fondeadora#197 <br/>
+Fix Fondeadora/fondeadora#197 <br/>
+Fixes Fondeadora/fondeadora#197 <br/>
+Fixed Fondeadora/fondeadora#197 <br/>
+Resolve Fondeadora/fondeadora#197 <br/>
+Resolves Fondeadora/fondeadora#197 <br/>
+Resolved Fondeadora/fondeadora#197 <br/>
 
-**¿Cuál es el comportamiento actual?**
+## Description
 
-**¿Cuál es el nuevo comportamiento?**
+Tell us about the changes, we don't need a large and confuse explanation, we only need a good and concise.
 
-**¿Cómo ha sido _testeado_?**
+## What is the current behavior?
 
-**Checklist:**
-- [ ] El código sigue la guía de estilo del proyecto
-- [ ] Mis cambios requeiren cambios en la documentación
-- [ ] He actualizado la documentación 
-- [ ] Se han añadido tests que cubren los cambios
+## What is the new behavior?
 
-**Contexto adicional**
+## How was tested?
+
+## Checklist
+
+- [ ] The code follows the project style guide
+- [ ] My changes require documentation changes
+- [ ] Updated the documentation
+- [ ] Tests that cover the changes have been added
+
+## Additional Context
