@@ -1,32 +1,25 @@
-# Pull Request Name: [#197](https://github.com/Fondeadora/fondeadora/issues/197)
+Closes Fondeadora/fondeadora#197
 
-**Note**: Use your preferred `keyword`, but jus one (Don't forget to delete the `<br/>` and the rest of options).
+### Description
 
-Close Fondeadora/fondeadora#197 <br/>
-Closes Fondeadora/fondeadora#197 <br/>
-Closed Fondeadora/fondeadora#197 <br/>
-Fix Fondeadora/fondeadora#197 <br/>
-Fixes Fondeadora/fondeadora#197 <br/>
-Fixed Fondeadora/fondeadora#197 <br/>
-Resolve Fondeadora/fondeadora#197 <br/>
-Resolves Fondeadora/fondeadora#197 <br/>
-Resolved Fondeadora/fondeadora#197 <br/>
+Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
-## Description
+### What is the current behavior?
 
-Tell us about the changes, we don't need a large and confuse explanation, we only need a good and concise.
+### What is the new behavior?
 
-## What is the current behavior?
+### How was tested?
 
-## What is the new behavior?
+### Checklist
 
-## How was tested?
+Please delete options that are not relevant.
 
-## Checklist
-
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] The code follows the project style guide
 - [ ] My changes require documentation changes
 - [ ] Updated the documentation
 - [ ] Tests that cover the changes have been added
 
-## Additional Context
+### Additional Context
