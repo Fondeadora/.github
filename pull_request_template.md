@@ -1,21 +1,25 @@
-Closes: [#XX](url)
+Closes Fondeadora/fondeadora#197
 
-*_RFC_: *
+### Description
 
-**Descripción**
-Un buen lugar para discutir implementación, diseño, etc. 
-Entre más complejo más vale la pena abrirlo temprano (facilita la revisión)
+Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
-**¿Cuál es el comportamiento actual?**
+### What is the current behavior?
 
-**¿Cuál es el nuevo comportamiento?**
+### What is the new behavior?
 
-**¿Cómo ha sido _testeado_?**
+### How was tested?
 
-**Checklist:**
-- [ ] El código sigue la guía de estilo del proyecto
-- [ ] Mis cambios requeiren cambios en la documentación
-- [ ] He actualizado la documentación 
-- [ ] Se han añadido tests que cubren los cambios
+### Checklist
 
-**Contexto adicional**
+Please delete options that are not relevant.
+
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] The code follows the project style guide
+- [ ] My changes require documentation changes
+- [ ] Updated the documentation
+- [ ] Tests that cover the changes have been added
+
+### Additional Context
