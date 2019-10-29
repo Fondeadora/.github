@@ -8,7 +8,7 @@ Please include a summary of the change and which issue is fixed. Please also inc
 
 ### What is the new behavior?
 
-### How was tested?
+### How was it tested?
 
 ### Checklist
 
