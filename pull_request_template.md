@@ -12,14 +12,10 @@ Please include a summary of the change and which issue is fixed. Please also inc
 
 ### Checklist
 
-Please delete options that are not relevant.
+_Please delete options that are not relevant._
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] The code follows the project style guide
-- [ ] My changes require documentation changes
-- [ ] Updated the documentation
-- [ ] Tests that cover the changes have been added
+- [ ] Does your code follow the project style guide?
+- [ ] Have you updated the documentation as needed?
+- [ ] Have you added tests that cover the changes and run them?
 
 ### Additional Context
