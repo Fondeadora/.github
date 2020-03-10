@@ -12,7 +12,7 @@ Please include a summary of the change and which issue is fixed. Please also inc
 
 ### Checklist
 
-_Please delete options that are not relevant._
+<!-- _Please delete options that are not relevant._ -->
 
 - [ ] Does your code follow the project style guide?
 - [ ] Have you updated the documentation as needed?
