@@ -17,7 +17,7 @@ Please include a summary of the change and which issue is fixed. Please also inc
 - [ ] Does your code follow the project style guide?
 - [ ] Have you updated the documentation as needed?
 - [ ] Have you added tests that cover the changes and run them?
-- [ ] Have you updated iam permissions as needed?
-- [ ] Have you created ssm parameters as needed?
+- [ ] Have you updated IAM permissions as needed?
+- [ ] Have you created SSM parameters as needed?
 
 ### Additional Context
