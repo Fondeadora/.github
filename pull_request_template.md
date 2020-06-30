@@ -12,7 +12,7 @@ Please include a summary of the change and which issue is fixed. Please also inc
 
 ### Checklist
 
-<!-- _Please delete options that are not relevant._ -->
+<!-- Please delete options that are not relevant. -->
 
 - [ ] Does your code follow the project style guide?
 - [ ] Have you updated the documentation as needed?
@@ -22,3 +22,5 @@ Please include a summary of the change and which issue is fixed. Please also inc
 - [ ] Have you added and ran migrations as needed?
 
 ### Additional Context
+
+<!-- Add here any additional context you think is important. -->
