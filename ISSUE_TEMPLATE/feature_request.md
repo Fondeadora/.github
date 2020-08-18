@@ -1,20 +1,20 @@
 ---
 name: Feature request
-about: Sugiere un cambio para Fondeadora
+about: Suggest a change
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Descripción**
-Una explicación clara y concisa de cuál es la motivación para este cambio. Por ejemplo, "Necesitamos hacer X para que Y suceda [...]" 
+**Description**
+A clear and concise explanation of what the motivation for this change is. For example, "We need to do X for Y to happen [...]"
 
-**Solución propuesta**
-Una descripción de cómo nos gustaría aplicar este cambio.
+**Proposed Solution**
+A description of how we would like to apply this change.
 
-**Alternativas consideradas**
-Una descripción de las alternativas posibles y cuales se han considerado.
+**Alternatives considered**
+A description of the possible alternatives and which ones have been considered.
 
-**Contexto adicional**
-¿Hay algo más que tengamos que saber? ¿Algún comentario adicional que quieras hacer?
+**Additional context**
+Is there anything else we need to know? Any additional comments you want to make?
