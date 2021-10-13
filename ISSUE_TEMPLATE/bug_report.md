@@ -1,32 +1,35 @@
 ---
 name: Bug report
-about: Crea el reporte de un error para que lo podamos solucionar
+about: Create a report for a bug
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Descripción del error**
-Una descripción clara y concisa del error.
+**Error Description**
+A clear and concise description of the error.
 
-**Pasos para reproducir**
-Pasos para reproducir el error:
-1. Ir a '...'
-2. Click en '....'
-3. Escribir X en '....'
-4. Ver el error
+**Steps to reproduce the error**
 
-**Comportamiento esperado**
-Una descripción de lo que esperabas que sucediera.
+Steps to reproduce the error:
+
+1. Go to '...'
+2. Click '....'
+3. Write X in '....'
+
+**Expected behavior**
+
+Description of the expected behavior.
 
 **Screenshots**
-Si es necesario y posible, agrega screenshots.
 
-**Información del Sistema**
- - Dispositivo: [e.g. iPhone6]
+If it's possible, attach the screenshots.
+
+**System Information**
+ - Device: [e.g. iPhone6]
  - OS: [e.g. iOS8.1]
  - Version [e.g. 1.0.56]
 
-**Contexto adicional**
-¿Algún comentario extra?
+**Additional Context**
+Is there anything else we need to know? Any additional comments you want to make?
