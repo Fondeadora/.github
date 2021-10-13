@@ -10,7 +10,7 @@ assignees: ''
 ---
 name: Postmortem
 about: Incident postmortem
-title: Incidente xx/xx/xx – Descripción
+title: Incident xx/xx/xx – Description
 labels: postmortem
 assignees: ''
 
@@ -19,25 +19,25 @@ assignees: ''
 **Timeline**
 [] - []
 
-**Impacto**
-xx usuarios
-xx eventos
+**Impact**
+xx Users
+xx Events
 
 **Trigger**
-Evento que desencadenó el incidente
+Event that triggered the incident
 
-**Origen**
-_Root cause_ del incidente
+**Origin**
+_Root cause_ of the incident
 
-**Detección**
-Cómo se detectó el accidente
+**Detection**
+How was detected the incident
 
-### Lecciones
-**Qué salió bien**
+### Lessons
+**What went well?**
 
-**Qué salió mal**
+**What went bad?**
 
-**Dónde tuvimos suerte**
+**Where were we lucky?**
 
 ### Accionables
 Action (create Github issue) | Owner | Timeline
