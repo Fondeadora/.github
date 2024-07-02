@@ -1,3 +1,5 @@
+<!-- Please delete anything from the final PR description that is not necessary. -->
+
 <!-- Closes Fondeadora/fondeadora#197 -->
 
 ### Description
